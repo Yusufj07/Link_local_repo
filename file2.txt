@@ -1,2 +1,4 @@
 This is my file2
 new line for file2
+
+hello world from bugfix 
