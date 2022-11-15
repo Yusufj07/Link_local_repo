@@ -2,3 +2,6 @@ This is my file2
 new line for file2
 
 hello world from bugfix 
+
+
+these are changes after stash
